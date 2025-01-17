@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Deployment from '../components/deploy/Deployment'
 
 const Deploy = () => {
