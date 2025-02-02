@@ -8,7 +8,7 @@ const data = [
     title:
       "Install tailwindcss and its peer dependencies, then generate your{ } tailwind.config.js  postcss.config.js files:",
     feature: "Vite",
-    desc: "npm install -D tailwindcss postcss autoprefixer",
+    desc: "npm install -D tailwindcss@3.4.17 postcss autoprefixer",
   },
   {
     title:
